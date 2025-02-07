@@ -57,13 +57,15 @@ src/
 - **Redux Toolkit**: The official, opinionated, batteries-included toolset for efficient Redux development
 - **React Router**: Declarative routing for React applications
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces
+- **Lottie**: For Loading and empty animation
+
 
 ## Setup Instructions
 
 1. Clone the repository:
    \`\`\`
-   git clone <repository-url>
-   cd task-management-dashboard
+   git clone [<repository-url>](https://github.com/amarRajputDev/TaskManagementDashboard.git)
+   cd taskManagementDashboard
    \`\`\`
 
 2. Install dependencies:
@@ -73,10 +75,10 @@ src/
 
 3. Start the development server:
    \`\`\`
-   npm start
+   npm run dev
    \`\`\`
 
-4. Open your browser and navigate to `http://localhost:3000` to view the application.
+4. Open your browser and navigate to `http://localhost:5173` to view the application.
 
 ## Usage Guide
 
